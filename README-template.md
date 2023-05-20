@@ -1,4 +1,4 @@
-# Udemy learning project - Omnifood website
+# Front-end mentor - stats-preview-card-component
 
 ## Table of contents
 
@@ -9,21 +9,18 @@
 
 ## Overview
 
-This website was a practice project, which was the final part of a Udemy HTML/CSS course. The project is a made up food delivery website, built with a variety of different CSS components and fully responsive. There is some Javascript applied to enable the smooth scrolling and sticky navigation bar.
+practice front-end mentor project of a card component with an image on one side content on the other
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS3
-  -Javascript
 
 ### What I learned
-
-This project was a very good introduction to web development for me. Some things which i found particularly useful was the creation of layouts using both CSS-grid and flexbox and how to plan a real world project. The tutorial also provided solid advice and useful CSS properties to style different components and elements of a website.
+This project gave me a chance to further practice css. one of the new properties I learned during this project was the background-image property, which i had not used before. I struggled with making the web page mobile friendly, the image seems to disappear when the screen size is reduced. 
 
 ### Continued development
-
-My aim now is to continue expanding my HTML and CSS knowledge by creating my own websites and practice projects. CSS-grid in particular is an area where i would like to improve on. Once i am comfortable with creating responsive layouts independently and solidified by knowledge on different CSS properties my goal is to pick up a CSS framework and also learn more Javascript.
+I'd like to build some more knowledge with media queries as it is one of my lacking areas. Any feedback would be appreciated
 
 ## Author
 
